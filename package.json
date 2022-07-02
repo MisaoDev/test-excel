@@ -1,0 +1,15 @@
+{
+  "name": "test-excel",
+  "version": "1.0.0",
+  "description": "prueba exceljs",
+  "main": "index.js",
+  "repository": "https://github.com/MisaoDev/test-excel.git",
+  "author": "MisaoDev <misao.the.oni@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
